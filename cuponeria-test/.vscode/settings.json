@@ -1,0 +1,14 @@
+{
+    "git.enabled": false,
+    "git.enableStatusBarSync": false,
+    "git.decorations.enabled": false,
+    "git.countBadge": "off",
+    "git.requireGitUserConfig": false,
+    "git.terminalAuthentication": false,
+    "git.autorefresh": false,
+    "git.confirmSync": false,
+    "git.suggestSmartCommit": false,
+    "git.promptToSaveFilesBeforeStash": "never",
+    "git.promptToSaveFilesBeforeCommit": "never",
+    "git.autoRepositoryDetection": false
+}
